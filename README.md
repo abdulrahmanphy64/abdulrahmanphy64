@@ -98,6 +98,7 @@ Desktop-based object detection using OpenCV, packaged with a clean UI.
 ## 📫 Contact  
 📧 **Email:** abdulrahmanphy64@gmail.com  
 🔗 **GitHub:** github.com/abdulrahmanphy64  
+🔗 **Linkedin:** linkedin.com/in/abdul-rahman-shaikh
 
 ---
 
